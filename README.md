@@ -1,0 +1,1 @@
+# Classification-using-HOG-features-and-Bag-of-Visual-words
